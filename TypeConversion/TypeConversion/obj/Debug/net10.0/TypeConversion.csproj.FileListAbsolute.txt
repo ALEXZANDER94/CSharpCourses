@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\refint\TypeConversion.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\TypeConversion\TypeConversion\obj\Debug\net10.0\ref\TypeConversion.dll
