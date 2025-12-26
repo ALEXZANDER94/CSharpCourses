@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\bin\Debug\net10.0\VariablesProgram.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\bin\Debug\net10.0\VariablesProgram.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\bin\Debug\net10.0\VariablesProgram.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\bin\Debug\net10.0\VariablesProgram.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\bin\Debug\net10.0\VariablesProgram.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\refint\VariablesProgram.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\VariablesProgram.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\VariablesProgram\VariablesProgram\obj\Debug\net10.0\ref\VariablesProgram.dll
