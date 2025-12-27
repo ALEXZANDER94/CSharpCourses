@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\bin\Debug\net10.0\ControlFlowExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\bin\Debug\net10.0\ControlFlowExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\bin\Debug\net10.0\ControlFlowExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\bin\Debug\net10.0\ControlFlowExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\bin\Debug\net10.0\ControlFlowExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\refint\ControlFlowExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ControlFlowExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ControlFlowExercises\ControlFlowExercises\obj\Debug\net10.0\ref\ControlFlowExercises.dll
