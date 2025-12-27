@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\net10.0\ReferenceTypesAndValueTypes.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\net10.0\ReferenceTypesAndValueTypes.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\net10.0\ReferenceTypesAndValueTypes.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\net10.0\ReferenceTypesAndValueTypes.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\net10.0\ReferenceTypesAndValueTypes.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\refint\ReferenceTypesAndValueTypes.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ReferenceTypesAndValueTypes.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\net10.0\ref\ReferenceTypesAndValueTypes.dll
