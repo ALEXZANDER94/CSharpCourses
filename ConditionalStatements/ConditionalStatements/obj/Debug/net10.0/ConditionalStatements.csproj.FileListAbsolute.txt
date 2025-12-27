@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\bin\Debug\net10.0\ConditionalStatements.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\refint\ConditionalStatements.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ConditionalStatements\ConditionalStatements\obj\Debug\net10.0\ref\ConditionalStatements.dll
