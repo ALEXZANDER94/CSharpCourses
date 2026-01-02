@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\bin\Debug\net10.0\ArrayExercise.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\bin\Debug\net10.0\ArrayExercise.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\bin\Debug\net10.0\ArrayExercise.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\bin\Debug\net10.0\ArrayExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\bin\Debug\net10.0\ArrayExercise.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\refint\ArrayExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ArrayExercise.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArrayExercise\ArrayExercise\obj\Debug\net10.0\ref\ArrayExercise.dll
