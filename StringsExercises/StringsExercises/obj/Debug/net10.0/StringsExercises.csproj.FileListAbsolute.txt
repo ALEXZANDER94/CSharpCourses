@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\bin\Debug\net10.0\StringsExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\bin\Debug\net10.0\StringsExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\bin\Debug\net10.0\StringsExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\bin\Debug\net10.0\StringsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\bin\Debug\net10.0\StringsExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\refint\StringsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\StringsExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\StringsExercises\StringsExercises\obj\Debug\net10.0\ref\StringsExercises.dll
