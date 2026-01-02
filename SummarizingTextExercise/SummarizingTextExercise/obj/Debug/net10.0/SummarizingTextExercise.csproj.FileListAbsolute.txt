@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\bin\Debug\net10.0\SummarizingTextExercise.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\bin\Debug\net10.0\SummarizingTextExercise.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\bin\Debug\net10.0\SummarizingTextExercise.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\bin\Debug\net10.0\SummarizingTextExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\bin\Debug\net10.0\SummarizingTextExercise.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\refint\SummarizingTextExercise.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\SummarizingTextExercise.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\SummarizingTextExercise\SummarizingTextExercise\obj\Debug\net10.0\ref\SummarizingTextExercise.dll
