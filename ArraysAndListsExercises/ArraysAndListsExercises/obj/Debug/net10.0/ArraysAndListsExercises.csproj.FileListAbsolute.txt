@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\bin\Debug\net10.0\ArraysAndListsExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\bin\Debug\net10.0\ArraysAndListsExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\bin\Debug\net10.0\ArraysAndListsExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\bin\Debug\net10.0\ArraysAndListsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\bin\Debug\net10.0\ArraysAndListsExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\refint\ArraysAndListsExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ArraysAndListsExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ArraysAndListsExercises\ArraysAndListsExercises\obj\Debug\net10.0\ref\ArraysAndListsExercises.dll
