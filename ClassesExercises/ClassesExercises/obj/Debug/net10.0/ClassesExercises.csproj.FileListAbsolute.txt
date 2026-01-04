@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\bin\Debug\net10.0\ClassesExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\bin\Debug\net10.0\ClassesExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\bin\Debug\net10.0\ClassesExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\bin\Debug\net10.0\ClassesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\bin\Debug\net10.0\ClassesExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\refint\ClassesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ClassesExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\ClassesExercises\ClassesExercises\obj\Debug\net10.0\ref\ClassesExercises.dll
