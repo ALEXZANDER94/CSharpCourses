@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\bin\Debug\net10.0\InheritanceExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\bin\Debug\net10.0\InheritanceExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\bin\Debug\net10.0\InheritanceExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\bin\Debug\net10.0\InheritanceExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\bin\Debug\net10.0\InheritanceExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\refint\InheritanceExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\InheritanceExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InheritanceExercises\InheritanceExercises\obj\Debug\net10.0\ref\InheritanceExercises.dll
