@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\bin\Debug\net10.0\InterfacesExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\bin\Debug\net10.0\InterfacesExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\bin\Debug\net10.0\InterfacesExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\bin\Debug\net10.0\InterfacesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\bin\Debug\net10.0\InterfacesExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\refint\InterfacesExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\InterfacesExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\InterfacesExercises\InterfacesExercises\obj\Debug\net10.0\ref\InterfacesExercises.dll
