@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\bin\Debug\net10.0\PolymorphismExercises.exe
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\bin\Debug\net10.0\PolymorphismExercises.deps.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\bin\Debug\net10.0\PolymorphismExercises.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\bin\Debug\net10.0\PolymorphismExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\bin\Debug\net10.0\PolymorphismExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\refint\PolymorphismExercises.dll
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.pdb
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\PolymorphismExercises.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\C#\CSharpCourses\PolymorphismExercises\PolymorphismExercises\obj\Debug\net10.0\ref\PolymorphismExercises.dll
